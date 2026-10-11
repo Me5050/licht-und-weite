@@ -1,0 +1,50 @@
+[
+  {
+    "datei": "beispiel_1_koran_mit_arabischem_vers.png",
+    "hintergrund": "hintergruende/05_blaue_stunde.jpg",
+    "kopf_rechts": "Quelle 04",
+    "arabischer_begriff": "عَبْدُ ٱللَّهِ",
+    "begriff_position": "rechts",
+    "titel": "Diener\nGottes.",
+    "titel_akzent": "Seine ersten Worte.",
+    "label": "Was der Koran sagt",
+    "arabischer_text": "قَالَ إِنِّي عَبْدُ ٱللَّهِ آتَانِيَ ٱلْكِتَابَ وَجَعَلَنِي نَبِيًّا",
+    "text": "Jesus sagte: Ich bin der Diener Gottes. Er hat mir die Schrift gegeben und mich zum Propheten gemacht.",
+    "quelle_links": "Koran 19:30 · sinngemäß",
+    "quelle_rechts": "Maryam",
+    "aufruf": "Mehr zur islamischen Sicht – per Direktnachricht.",
+    "zaehler": "04 / 06"
+  },
+  {
+    "datei": "beispiel_2_hadith.png",
+    "hintergrund": "hintergruende/03_daemmerung_mondsichel.jpg",
+    "kopf_rechts": "Hadith 02",
+    "arabischer_begriff": "أَوْلَى ٱلنَّاسِ",
+    "begriff_position": "links",
+    "titel": "Die Propheten\nsind Brüder.",
+    "titel_akzent": "",
+    "label": "Was der Hadith sagt",
+    "arabischer_text": "",
+    "text": "Der Prophet Muhammad sagte sinngemäß: Ich stehe Jesus, dem Sohn Marias, von allen Menschen am nächsten – im Diesseits und im Jenseits. Die Propheten sind Brüder; ihre Mütter sind verschieden, ihre Religion ist eine.",
+    "quelle_links": "Sahih al-Bukhari 3442 · sinngemäß",
+    "quelle_rechts": "ṣaḥīḥ",
+    "aufruf": "Fragen? Schreiben Sie uns eine Direktnachricht.",
+    "zaehler": "05 / 06"
+  },
+  {
+    "datei": "beispiel_3_koran_kurz.png",
+    "hintergrund": "hintergruende/06_goldene_stunde.jpg",
+    "kopf_rechts": "Quelle 05",
+    "arabischer_begriff": "كَمَثَلِ آدَمَ",
+    "begriff_position": "links",
+    "titel": "Wie Adam.",
+    "titel_akzent": "Erschaffen von Gott.",
+    "label": "Was der Koran sagt",
+    "arabischer_text": "",
+    "text": "Der Koran vergleicht Jesus mit Adam: Gott erschuf Adam aus Erde und sprach „Sei!“ – und er war.",
+    "quelle_links": "Koran 3:59 · sinngemäß",
+    "quelle_rechts": "Āl ʿImrān",
+    "aufruf": "Mehr zur islamischen Sicht – per Direktnachricht.",
+    "zaehler": "06 / 06"
+  }
+]
