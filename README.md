@@ -1,13 +1,6 @@
 # Licht & Weite
 
 Instagram-Vorlage (1080 × 1350 px) der Designrichtung D für das Projekt **„Jesus auch Muslim“**. Die Posts erklären christlich geprägten und neugierigen Menschen die islamische Sicht auf Jesus (ʿĪsā) anhand von Koranversen und Hadithen – sachlich, respektvoll, mit sichtbarer Quelle.
-
-<p>
-  <img src="beispiele/beispiel_1_koran_mit_arabischem_vers.png" width="260" alt="Beispielpost Koran 19:30">
-  <img src="beispiele/beispiel_2_hadith.png" width="260" alt="Beispielpost Hadith Bukhari 3442">
-  <img src="beispiele/beispiel_3_koran_kurz.png" width="260" alt="Beispielpost Koran 3:59">
-</p>
-
 ## Inhalt
 
 | Pfad | Zweck |
